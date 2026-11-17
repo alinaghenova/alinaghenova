@@ -36,7 +36,7 @@
 - Оптимизировала процесс записи (TO-BE в BPMN 2.0), исключив ручное участие администраторов.
 - Разработала диаграммы состояний, DFD и 18+ wireframe-экранов в Figma.
 
-### [Спецификации и API для e-commerce и страхования (Lucky Insurance, Chatty, «Накарабине»)](https://github.com)
+### [Спецификации и API для e-commerce и страхования(Lucky Insurance, Chatty, «Накарабине»)](https://github.com)
 *SRS, Use Cases, OpenAPI 3.0.0 (Swagger), JSON/DTO* — разработка SRS (SLA 99,9%), Use Cases и спецификаций OpenAPI 3.0.0.
 
 - Разработала полные спецификации (SRS из 7 разделов, SLA 99,9%) и 11+ Use Cases.
