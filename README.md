@@ -19,32 +19,32 @@
 
 *User Stories (Gherkin), ER-диаграммы (3НФ), DFD, Figma · ГОСТ 19 и ГОСТ 34*
 
-- Спроектировала MVP платформы (27 пользовательских историй по Given-When-Then и UI-флоу в Figma) [https://github.com](https://github.com).
-- Устранила конфликты телеметрии вендоров через ER-диаграмму БД на 11 таблиц (3НФ) и словарь на 40+ атрибутов [https://github.com](https://github.com).
-- Разработала DFD и программу испытаний (ПМИ) на 28 тест-кейсов, снизив число доработок при интеграции [https://github.com](https://github.com).
+- Спроектировала MVP платформы (27 пользовательских историй по Given-When-Then и UI-флоу в Figma).
+- Устранила конфликты телеметрии вендоров через ER-диаграмму БД на 11 таблиц (3НФ) и словарь на 40+ атрибутов.
+- Разработала DFD и программу испытаний (ПМИ) на 28 тест-кейсов, снизив число доработок при интеграции.
 
 ### [Интеграционный модуль онлайн-кинотеатра «Otium»](https://github.com)
 
 *REST API (JSON/XML), XSD, UML Sequence, Swagger · Микросервисная архитектура*
 
-- Спроектировала REST API контракты (JSON/XML) и XSD-схемы для сортировки и фильтрации каталога [https://github.com](https://github.com).
-- Описала межсервисные потоки (Web Server и микросервисы Films/Series) на UML Sequence-диаграммах [https://github.com](https://github.com).
-- Протестировала API в Swagger и подготовила постановку на новые query-параметры [https://github.com](https://github.com).
+- Спроектировала REST API контракты (JSON/XML) и XSD-схемы для сортировки и фильтрации каталога.
+- Описала межсервисные потоки (Web Server и микросервисы Films/Series) на UML Sequence-диаграммах.
+- Протестировала API в Swagger и подготовила постановку на новые query-параметры.
 
 ### [Мобильное приложение медицинской сети «Вита»](https://github.com)
 
 *BPMN 2.0 (AS-IS/TO-BE), UML State Machine, DFD, USM, Figma · Agile/Scrum*
 
-- Построила карту пользовательских историй (USM) для приоритизации бэклога [https://github.com](https://github.com).
-- Оптимизировала процесс записи (TO-BE в BPMN 2.0), исключив ручное участие администраторов [https://github.com](https://github.com).
-- Разработала диаграммы состояний, DFD и 18+ wireframe-экранов в Figma [https://github.com](https://github.com).
+- Построила карту пользовательских историй (USM) для приоритизации бэклога.
+- Оптимизировала процесс записи (TO-BE в BPMN 2.0), исключив ручное участие администраторов.
+- Разработала диаграммы состояний, DFD и 18+ wireframe-экранов в Figma.
 
 ### [Спецификации и API для e-commerce и страхования (Lucky Insurance, Chatty, «Накарабине»)](https://github.com)
 
 *SRS, Use Cases, OpenAPI 3.0.0 (Swagger), JSON/DTO · Проектирование интеграций*
 
-- Разработала полные спецификации (SRS из 7 разделов, SLA 99,9%) и 11+ Use Cases [https://github.com](https://github.com).
-- Формализовала REST API в стандарте OpenAPI 3.0.0 с DTO-схемами и кодами ошибок [https://github.com](https://github.com).
+- Разработала полные спецификации (SRS из 7 разделов, SLA 99,9%) и 11+ Use Cases.
+- Формализовала REST API в стандарте OpenAPI 3.0.0 с DTO-схемами и кодами ошибок.
 
 
 ## Контакты
