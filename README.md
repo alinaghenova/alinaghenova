@@ -15,10 +15,37 @@
 
 ## Проекты
 
-* **«Умный дом» (IoT):** Спроектировала MVP на 27 пользовательских историй, ER-диаграмму БД (3НФ), двухуровневые DFD и ПМИ по ГОСТ 19/34.
-* **«Otium» (E-commerce / Онлайн-кинотеатр):** Разработала контракты REST API, XSD-схемы, UML Sequence-диаграммы межсервисных потоков и Swagger-документацию.
-* **Сеть «Вита» (MedTech):** Построила USM, оптимизировала бизнес-процессы в BPMN 2.0 (AS-IS/TO-BE), спроектировала State Machine и интерфейсы в Figma.
-* **Chatty, «Накарабине», Lucky Insurance (E-commerce и страхование):** Подготовила SRS-спецификации (Use Cases, SLA 99,9%) и REST API в OpenAPI 3.0.0.
+### [Платформа автоматизации «Умный дом» (IoT)](https://github.com)
+
+*User Stories (Gherkin), ER-диаграммы (3НФ), DFD, Figma · ГОСТ 19 и ГОСТ 34*
+
+- Спроектировала MVP платформы (27 пользовательских историй по Given-When-Then и UI-флоу в Figma) [https://github.com](https://github.com).
+- Устранила конфликты телеметрии вендоров через ER-диаграмму БД на 11 таблиц (3НФ) и словарь на 40+ атрибутов [https://github.com](https://github.com).
+- Разработала DFD и программу испытаний (ПМИ) на 28 тест-кейсов, снизив число доработок при интеграции [https://github.com](https://github.com).
+
+### [Интеграционный модуль онлайн-кинотеатра «Otium»](https://github.com)
+
+*REST API (JSON/XML), XSD, UML Sequence, Swagger · Микросервисная архитектура*
+
+- Спроектировала REST API контракты (JSON/XML) и XSD-схемы для сортировки и фильтрации каталога [https://github.com](https://github.com).
+- Описала межсервисные потоки (Web Server и микросервисы Films/Series) на UML Sequence-диаграммах [https://github.com](https://github.com).
+- Протестировала API в Swagger и подготовила постановку на новые query-параметры [https://github.com](https://github.com).
+
+### [Мобильное приложение медицинской сети «Вита»](https://github.com)
+
+*BPMN 2.0 (AS-IS/TO-BE), UML State Machine, DFD, USM, Figma · Agile/Scrum*
+
+- Построила карту пользовательских историй (USM) для приоритизации бэклога [https://github.com](https://github.com).
+- Оптимизировала процесс записи (TO-BE в BPMN 2.0), исключив ручное участие администраторов [https://github.com](https://github.com).
+- Разработала диаграммы состояний, DFD и 18+ wireframe-экранов в Figma [https://github.com](https://github.com).
+
+### [Спецификации и API для e-commerce и страхования (Lucky Insurance, Chatty, «Накарабине»)](https://github.com)
+
+*SRS, Use Cases, OpenAPI 3.0.0 (Swagger), JSON/DTO · Проектирование интеграций*
+
+- Разработала полные спецификации (SRS из 7 разделов, SLA 99,9%) и 11+ Use Cases [https://github.com](https://github.com).
+- Формализовала REST API в стандарте OpenAPI 3.0.0 с DTO-схемами и кодами ошибок [https://github.com](https://github.com).
+
 
 ## Контакты
 
